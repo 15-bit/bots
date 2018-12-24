@@ -3,7 +3,7 @@ from bottle import Bottle, response, request as bottle_request
 
 
 
-BOT_URL = 'https://api.telegram.org/bot749452408:AAEyNR5Md5PskhMf4d5d0xe__9jGK4P2_AY/'
+BOT_URL = 'https://api.telegram.org/bot<token>/'
 
 
 class BotHandlerMixin:
